@@ -13,7 +13,7 @@ scipy
 scikit-learn
 cvxpy>=1.0
 numba
-tensorflow==1.1.0
+tensorflow==2.4.0
 networkx==1.11
 BlackBoxAuditing;python_version>="3"
 lime
